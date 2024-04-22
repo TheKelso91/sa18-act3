@@ -1,0 +1,21 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "T-Shirt",
+        "price": "19.99",
+        "description": "Cotton t-shirt."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Jacket",
+        "price": "29.99",
+        "description": "Military style jacket."
+      }
+    }
+  ]
+  
